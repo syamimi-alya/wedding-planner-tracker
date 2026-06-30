@@ -1,4 +1,4 @@
-# 💍 Wedding Planner & Budget Tracker
+# Wedding Planner & Budget Tracker
 
 A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google Sheets to simplify wedding planning from engagement to honeymoon.
 
@@ -10,11 +10,11 @@ A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google 
 - Bride & Groom Reception Planner
 - Nikah Planner
 
-## 🛠️ Built With
+## Built With
 - Microsoft Excel
 - Google Sheets
 - Excel Formulas
 - Charts & Dashboard
 
-## 🎯 Purpose
+## Purpose
 This project was created as a self-learning project to practice spreadsheet automation and dashboard design while building a practical wedding planning solution.
