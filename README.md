@@ -18,3 +18,7 @@ A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google 
 
 ## Purpose
 This project was created as a self-learning project to practice spreadsheet automation and dashboard design while building a practical wedding planning solution.
+
+## Preview
+
+![Dashboard](images/dashboard.png)
