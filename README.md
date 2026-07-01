@@ -9,6 +9,7 @@ A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google 
 - Budget Tracker
 - Bride & Groom Reception Planner
 - Nikah Planner
+- Vendor Tracker
 
 ## Built With
 - Microsoft Excel
