@@ -3,13 +3,13 @@
 A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google Sheets to simplify wedding planning from engagement to honeymoon.
 
 ## Features
-- Interactive Dashboard
-- Wedding Timeline
-- Task Checklist
-- Budget Tracker
-- Bride & Groom Reception Planner
-- Nikah Planner
-- Vendor Tracker
+- Interactive Dashboard  
+- Wedding Timeline  
+- Task Checklist  
+- Budget Tracker  
+- Reception Planner (Bride & Groom)  
+- Nikah Planner  
+- Vendor Tracker  
 
 ## Built With
 - Microsoft Excel
