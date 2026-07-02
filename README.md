@@ -17,9 +17,6 @@ A comprehensive Wedding Planner spreadsheet built in Microsoft Excel and Google 
 - Excel Formulas
 - Charts & Dashboard
 
-## Purpose
-This project was created as a self-learning project to practice spreadsheet automation and dashboard design while building a practical wedding planning solution.
-
 ## Development Approach
 This Wedding Tracker was developed using an iterative Agile-inspired workflow.
 The project was not built in a single phase. Instead, it evolved through continuous improvement cycles:
@@ -33,6 +30,9 @@ The project was not built in a single phase. Instead, it evolved through continu
 
 ### Key Idea
 "Build → Test → Fix → Improve → Repeat"
+
+## Purpose
+This project was created as a self-learning initiative to improve skills in spreadsheet automation, data tracking, and dashboard design, while building a practical wedding planning system.
 
 ## Preview
 
